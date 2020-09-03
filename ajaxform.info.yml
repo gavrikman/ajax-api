@@ -1,0 +1,5 @@
+name: 'ajaxform'
+type: module
+description: 'custom ajax form'
+core: 8.x
+package: 'Custom'
